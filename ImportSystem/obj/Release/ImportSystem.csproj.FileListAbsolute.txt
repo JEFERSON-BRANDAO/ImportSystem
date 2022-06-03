@@ -1,0 +1,17 @@
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\bin\ImportSystem.dll
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\bin\ImportSystem.pdb
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\obj\Release\ImportSystem.dll
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\obj\Release\ImportSystem.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\bin\ImportSystem.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\bin\ImportSystem.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\obj\Release\ImportSystem.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\obj\Release\ImportSystem.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\obj\Release\ImportSystem.csprojResolveAssemblyReference.cache
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\obj\Release\ImportSystem.csprojResolveAssemblyReference.cache
+C:\Users\jeffersonbrandao\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\bin\ImportSystem.dll
+C:\Users\jeffersonbrandao\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\bin\ImportSystem.pdb
+C:\Users\jeffersonbrandao\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\obj\Release\RdlCompile.cache
+C:\Users\jeffersonbrandao\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\obj\Release\RdlCompile.compiled
+C:\Users\jeffersonbrandao\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\obj\Release\ImportSystem.dll
+C:\Users\jeffersonbrandao\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\obj\Release\ImportSystem.pdb
+C:\Users\jeffersonbrandao\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\obj\Release\ImportSystem.csprojResolveAssemblyReference.cache

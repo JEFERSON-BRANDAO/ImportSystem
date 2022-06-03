@@ -1,0 +1,80 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ImportSystem.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <%-- <link rel="shortcut icon" type="image/x-icon" href="imagens/icon/icone.ico" />--%>
+    <%-- <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />--%>
+    <%--  <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="Scripts/jquery-1.4.1.js"></script>
+    <script type="text/javascript" src="Scripts/jquery.maskedinput.js"></script>--%>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/outro/demo.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/outro/component2.css" rel="stylesheet" type="text/css" />
+    <script src="Scripts/modernizr-2.6.2.min.js" type="text/javascript"></script>
+    <link href="Styles/treeview.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <form runat="server">
+    <%-- <asp:ScriptManager ID="Scriptmanager1" EnablePartialRendering="true" EnableCdn="true"
+        LoadScriptsBeforeUI="false" ScriptMode="Release" EnableScriptGlobalization="True"
+        runat="server">
+    </asp:ScriptManager>--%>
+    <asp:ScriptManager ID="Scriptmanager1" EnableScriptGlobalization="True" runat="server">
+    </asp:ScriptManager>
+    <div class="codrops-top clearfix">
+        <asp:HyperLink ID="HyperLink2" runat="server" ForeColor="White" Text="" Font-Bold="true"
+            Font-Overline="false" NavigateUrl="Home" ToolTip="Inicio"><<</asp:HyperLink>
+        <asp:Label ID="lbUsuario" runat="server" Text="Usuário" ForeColor="White"></asp:Label>
+        <span class="right"><a class="codrops-icon codrops-icon-drop" id="LinkSair" runat="server">
+            <span>Sair</span></a></span>
+
+    </div>
+    <%--<div class="page">--%>
+    <%--  <div class="blocoGrupoCampos">
+            <div class="header">
+                <div class="title">
+                    <h1>
+                       
+                        <asp:HyperLink ID="HyperLink1" runat="server" ForeColor="White" Text="" Font-Bold="true"
+                            Font-Overline="false" NavigateUrl="~/Default.aspx" ToolTip="Inicio">purchasing management system</asp:HyperLink>
+                    </h1>
+                </div>
+                <br />
+          
+                <div style="margin-left: 460px;">
+                    <asp:Label ID="LbUsuario" runat="server" ForeColor="White"></asp:Label>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:Label
+                        ID="lbData" runat="server" ForeColor="White"></asp:Label>
+                </div>
+               
+                <div style="margin-left: 862px;">
+                    <asp:ImageButton ID="imgSair" runat="server" ImageUrl="~/imagens/sair.png" PostBackUrl="sair.aspx"
+                        ToolTip="Sair" />
+                 
+                </div>
+               
+            </div>
+         
+        </div>--%>
+    <div class="main">
+        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+    </div>
+    <%--<div class="clear">
+        </div>--%>
+    <%--<%--</div>--%>
+    <%-- <div class="footer2">
+        <asp:Label ID="lbRodape" runat="server" ForeColor="White"></asp:Label>
+    </div>--%>
+    </form>
+</body>
+</html>

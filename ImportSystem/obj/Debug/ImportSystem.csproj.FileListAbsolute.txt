@@ -1,0 +1,10 @@
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\bin\ImportSystem.dll
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\bin\ImportSystem.pdb
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\obj\Debug\ImportSystem.dll
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\obj\Debug\ImportSystem.pdb
+C:\Users\jefferson.brandao\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\obj\Debug\ImportSystem.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\bin\ImportSystem.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\bin\ImportSystem.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\obj\Debug\ImportSystem.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\obj\Debug\ImportSystem.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\ImportSystem\ImportSystem\obj\Debug\ImportSystem.pdb
